@@ -16,7 +16,7 @@ Get the [latest](https://github.com/fabric8io/gofabric8/releases/latest/) `gofab
 ```
 curl -sS https://get.fabric8.io/download.txt | bash
 ```
-add '~/.fabric8/bin' to your path so you can execute the new binaries, for example:
+add '/Users/{username}/.fabric8/bin' to your path so you can execute the new binaries, for example:
 edit your ~/.zshrc or ~/.bashrc  and append to the end of the file
 ```
 export PATH=$PATH:~/.fabric8/bin
